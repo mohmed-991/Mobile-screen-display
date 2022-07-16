@@ -1,2 +1,2 @@
 # Mobile-screen-display
-Mobile screen display by ad
+Mobile screen display by adb
